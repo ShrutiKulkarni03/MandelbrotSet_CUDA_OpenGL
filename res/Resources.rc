@@ -1,0 +1,4 @@
+#include "../inc/Resources.h"
+
+MYICON ICON Icon.ico
+MYAUDIO WAVE audio\TheLionKingThisLand.wav
